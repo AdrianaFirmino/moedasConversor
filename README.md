@@ -41,11 +41,5 @@ Agradeço ao Portal Alura pelas excelentes formações e conteúdos que contribu
 Também sou grata ao Programa ONE (Oracle Next Education) pela oportunidade de aprendizado,
 crescimento profissional e incentivo à construção de projetos práticos e significativos.
 
-
-
-
-
-
-
 🙏 Agradecimentos
-Agradeço ao Portal Alura pelas excelentes formaçõe
+Agradeço ao 
