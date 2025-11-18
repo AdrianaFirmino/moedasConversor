@@ -1,3 +1,4 @@
+<img width="1366" height="720" alt="imagem3" src="https://github.com/user-attachments/assets/da1134de-0ae1-4a5b-9f99-593a0a279abc" />
 💱 Conversor de Moedas
 
 🧾 Descrição
@@ -39,5 +40,4 @@ Desenvolvido por Adriana Fimino.
 🙏 Agradecimentos
 Agradeço ao Portal Alura pelas excelentes formações e conteúdos que contribuíram diretamente para o desenvolvimento deste projeto.
 Também sou grata ao Programa ONE (Oracle Next Education) pela oportunidade de aprendizado,
-crescimento profissional e incentivo à construção de projetos práticos e significativos.imentos
-Agradeço a
+crescimento profissional e incentivo à construção de projetos práticos e significativos.
